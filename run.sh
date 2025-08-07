@@ -8,7 +8,7 @@ echo "#Atualizando repositório"
 git -C $PROJECT_PATH pull
 
 echo "#Atualizando $FILE_PATH com $URL"
-curl $URL | jq > $FILE_PATH
+curl $URL | jq > $PROJECT_PATH/$FILE_PATH
 
 echo "#Enviando atualização"
 git -C $PROJECT_PATH add $FILE_PATH
