@@ -27,7 +27,8 @@ for url in "${urls[@]}"; do
     echo "Processando URL: $url"
 
     # Faz o curl e extrai os valores usando jq
-    json_data=$(curl -s "$url" | jq -c '.TrsrBd | {nm, ult_untrRedVal: .untrRedVal[-1]}')
+    #json_data=$(curl -s "$url" | jq -c '.TrsrBd | {nm, ult_untrRedVal: .untrRedVal[-1]}')
+    json_data=$(python3 download_json_selenium.py "$url" | jq -c '.TrsrBd | {nm, ult_untrRedVal: .untrRedVal[-1]}')
 
     # Valida se a extração do jq foi bem-sucedida
     if [ -z "$json_data" ]; then
