@@ -2,15 +2,17 @@
 
 # --- Lista de URLs para buscar os dados ---
 urls=(
-    "https://www.tesourodireto.com.br/o/historico-rentabilidade/179?days=30" #Tesouro IPCA+ 2029
-    "https://www.tesourodireto.com.br/o/historico-rentabilidade/160?days=30" #Tesouro IPCA+ 2045
+    "https://www.tesourodireto.com.br/o/historico-rentabilidade/178?days=30" #Tesouro Selic 2029
+    "https://www.tesourodireto.com.br/o/historico-rentabilidade/205?days=30" #Tesouro Prefixado 2031
     "https://www.tesourodireto.com.br/o/historico-rentabilidade/162?days=30" #Tesouro Prefixado com Juros Semestrais 2029
     "https://www.tesourodireto.com.br/o/historico-rentabilidade/208?days=30" #Tesouro Prefixado com Juros Semestrais 2035
+    "https://www.tesourodireto.com.br/o/historico-rentabilidade/179?days=30" #Tesouro IPCA+ 2029
+    "https://www.tesourodireto.com.br/o/historico-rentabilidade/160?days=30" #Tesouro IPCA+ 2045
+    "https://www.tesourodireto.com.br/o/historico-rentabilidade/179?days=30" #Tesouro IPCA+ 2050
     "https://www.tesourodireto.com.br/o/historico-rentabilidade/111?days=30" #Tesouro IPCA+ com Juros Semestrais 2035
     "https://www.tesourodireto.com.br/o/historico-rentabilidade/169?days=30" #Tesouro IPCA+ com Juros Semestrais 2055
     "https://www.tesourodireto.com.br/o/historico-rentabilidade/215?days=30" #Tesouro IPCA+ com Juros Semestrais 2060
-    "https://www.tesourodireto.com.br/o/historico-rentabilidade/178?days=30" #Tesouro Selic 2029
-    "https://www.tesourodireto.com.br/o/historico-rentabilidade/205?days=30" #Tesouro Prefixado 2031
+    "https://www.tesourodireto.com.br/o/historico-rentabilidade/187?days=30" #Tesouro Renda+ 2065
 )
 
 # --- Caminho para o arquivo JSON local ---
