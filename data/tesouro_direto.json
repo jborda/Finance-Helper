@@ -62,7 +62,7 @@
           "anulInvstmtRate": 7.59,
           "anulRedRate": 7.71,
           "minRedQty": 0.01,
-          "untrRedVal": 4027.42,
+          "untrRedVal": 4024.46,
           "minRedVal": 34.47,
           "isinCd": "BRSTNCNTB6A3",
           "FinIndxs": {
@@ -164,7 +164,7 @@
           "anulInvstmtRate": 0,
           "anulRedRate": 7.17,
           "minRedQty": 0.01,
-          "untrRedVal": 1442.75,
+          "untrRedVal": 1412.65,
           "minRedVal": 11.67,
           "isinCd": "BRSTNCNTB2U0",
           "FinIndxs": {
@@ -266,7 +266,7 @@
           "anulInvstmtRate": 0,
           "anulRedRate": 13.29,
           "minRedQty": 0.01,
-          "untrRedVal": 986.67,
+          "untrRedVal": 983.06,
           "minRedVal": 9.31,
           "isinCd": "BRSTNCNTF1Q6",
           "FinIndxs": {
@@ -368,7 +368,7 @@
           "anulInvstmtRate": 13.71,
           "anulRedRate": 13.83,
           "minRedQty": 0.01,
-          "untrRedVal": 902.88,
+          "untrRedVal": 888.23,
           "minRedVal": 8.26,
           "isinCd": "BRSTNCNTF238",
           "FinIndxs": {
@@ -538,7 +538,7 @@
           "anulInvstmtRate": 7.27,
           "anulRedRate": 7.39,
           "minRedQty": 0.01,
-          "untrRedVal": 4655.1,
+          "untrRedVal": 4630.23,
           "minRedVal": 42.01,
           "isinCd": "BRSTNCNTB0O7",
           "FinIndxs": {
@@ -674,7 +674,7 @@
           "anulInvstmtRate": 0,
           "anulRedRate": 7.17,
           "minRedQty": 0.01,
-          "untrRedVal": 4506.23,
+          "untrRedVal": 4435.97,
           "minRedVal": 39.93,
           "isinCd": "BRSTNCNTB4Q4",
           "FinIndxs": {
@@ -708,7 +708,7 @@
           "anulInvstmtRate": 7.09,
           "anulRedRate": 7.21,
           "minRedQty": 0.01,
-          "untrRedVal": 4420.05,
+          "untrRedVal": 4334.72,
           "minRedVal": 38.78,
           "isinCd": "BRSTNCNTB690",
           "FinIndxs": {
@@ -878,7 +878,7 @@
           "anulInvstmtRate": 0,
           "anulRedRate": 13.54,
           "minRedQty": 0.01,
-          "untrRedVal": 609.59,
+          "untrRedVal": 602.81,
           "minRedVal": 5.08,
           "isinCd": "BRSTNCLTN8D1",
           "FinIndxs": {
@@ -1048,7 +1048,7 @@
           "anulInvstmtRate": 0,
           "anulRedRate": 0.0963,
           "minRedQty": 0.01,
-          "untrRedVal": 20041.75,
+          "untrRedVal": 20068.41,
           "minRedVal": 171.05,
           "isinCd": "BRSTNCLF1RL5",
           "FinIndxs": {
@@ -1375,7 +1375,7 @@
           "anulInvstmtRate": 7.03,
           "anulRedRate": 7.15,
           "minRedQty": 0.01,
-          "untrRedVal": 240.09,
+          "untrRedVal": 218.75,
           "minRedVal": 1.66,
           "isinCd": "BRSTNCNAP088",
           "FinIndxs": {
